@@ -1,0 +1,1 @@
+An HTML project that will be a basic recipe website. It will consist of a main index page and will have links to a few recipe.
