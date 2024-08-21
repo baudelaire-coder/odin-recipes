@@ -1,0 +1,9 @@
+* {
+    background-color: black;
+    color: rgb(57, 255, 20);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-weight: bold;
+}
